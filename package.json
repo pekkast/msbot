@@ -1,0 +1,22 @@
+{
+  "name": "msbot",
+  "version": "1.0.0",
+  "description": "Bot framework test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Pekka",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pekkast/msbot.git"
+  }
+}
